@@ -1,0 +1,14 @@
+# Logs
+*.log
+*.log.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Backup / temp files
+*.save
+*.tmp
+
+# Reports (if auto-generated)
+reports/

@@ -1,5 +1,0 @@
-2026-02-07 10:04:38 | WARNING | Not running as root
-2026-02-07 10:04:38 | INFO | FirewallController initialized
-2026-02-07 10:08:25 | INFO | FirewallController initialized
-2026-02-07 10:11:05 | INFO | BLOCKED: 8.8.8.8
-2026-02-07 10:12:26 | INFO | UNBLOCKED: 8.8.8.8
