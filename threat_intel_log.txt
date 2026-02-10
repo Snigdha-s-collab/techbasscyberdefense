@@ -1,0 +1,5 @@
+2026-02-08 02:50:30 | INFO | ThreatIntelligence initialized
+2026-02-08 02:55:18 | INFO | Checked 8.8.8.8: low (0)
+2026-02-08 02:56:01 | INFO | Checked 45.33.32.156: critical (100)
+2026-02-08 02:56:25 | INFO | Checked 1.1.1.1: low (0)
+2026-02-08 02:57:20 | INFO | Checked 185.220.101.1: critical (100)

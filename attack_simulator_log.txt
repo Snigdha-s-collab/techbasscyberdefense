@@ -1,0 +1,9 @@
+2026-02-10 10:47:19 | INFO | AttackSimulator initialized
+2026-02-10 10:48:29 | INFO | Attack started: ATK-63818 | Type: ddos | Target: 192.168.1.100
+2026-02-10 10:48:42 | INFO | Attack stopped: ATK-63818
+2026-02-10 10:48:47 | INFO | AttackSimulator initialized
+2026-02-10 10:48:58 | INFO | Attack started: ATK-25807 | Type: ddos | Target: 192.168.1.100
+2026-02-10 10:49:08 | INFO | Attack stopped: ATK-25807
+2026-02-10 10:49:46 | INFO | AttackSimulator initialized
+2026-02-10 10:49:55 | INFO | Attack started: ATK-41071 | Type: ddos | Target: 192.168.1.100
+2026-02-10 10:50:05 | INFO | Attack stopped: ATK-41071
