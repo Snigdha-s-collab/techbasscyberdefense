@@ -9,6 +9,6 @@ __pycache__/
 # Backup / temp files
 *.save
 *.tmp
-
+threat_cache.json
 # Reports (if auto-generated)
 reports/
